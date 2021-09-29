@@ -126,7 +126,9 @@ thead tr:first-child th:first-child {
 
 footer{
   min-height: 75px;
-  margin-top: auto;
+  position:fixed;
+  margin-left: 0;
+  bottom:0;
   width:100%;
   background:#000000;
   text-align:center;
